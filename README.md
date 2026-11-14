@@ -1,5 +1,5 @@
-<br />
-<p align="center">
+
+
   <img src="https://i.imgur.com/uP8MCw0.gif" height="120">
   <h3 align="center"><i><strong>Termex</strong></i></h3>
 
@@ -31,31 +31,7 @@ Termex(**Ter**minal **Ex**plorer) is a terminal-based file explorer created usin
 
 # Features
 
-- [x] Terminal-based file navigation
-- [x] View files with syntax highlighting
-- [x] Discord RPC
-      and many other small features
-
-  #### WIP
-
-  - [ ] Github Gists
-
-Read the documentation [here](https://github.com/pranavbaburaj/termex/tree/main/docs)
-
-# Installation
-
-## Manual installation
-<!--
-
-- **NPM**
-
-```ps1
-$ npm i termex -g
-```
-
-<!-- - **Windows**
-
-Windows users can download the zip file from the [releases](https://github.com/pranavbaburaj/termex/releases/latest/). Unzip the downloaded file and you can find the termex executable in the directory. An alternate wa is to build from source. You can learn more about it [here](https://github.com/pranavbaburaj/termex#building-from-source)
+- [x] Terminal-based file )
 
 - **Other platforms**
   Non-Windows users require to build the application from source. Read more about it [here](https://github.com/pranavbaburaj/termex#building-from-source) -->
@@ -106,6 +82,19 @@ Please mind reading the documentation before using termex. Learn more about docu
 
 # Documentation
 
-Read the official documentation [here](https://github.com/pranavbaburaj/termex/blob/main/docs/README.md). If you find any issues with the documentation, please let us know by creating an [issue](https://github.com/pranavbaburaj/termex/issues/new).
-  clear
+Read the official documentation [here](https://github.com/pranavbaburaj/termex/blob/main/docs/README.md). If you find any issues with the documentation, please let us know by creating clear
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
