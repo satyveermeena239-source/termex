@@ -107,3 +107,5 @@ Please mind reading the documentation before using termex. Learn more about docu
 # Documentation
 
 Read the official documentation [here](https://github.com/pranavbaburaj/termex/blob/main/docs/README.md). If you find any issues with the documentation, please let us know by creating an [issue](https://github.com/pranavbaburaj/termex/issues/new).
+  clear
+
